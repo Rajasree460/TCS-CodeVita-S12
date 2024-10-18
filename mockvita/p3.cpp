@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
+#include <math.h> // Add this line
 
 // Function to check if a word is a valid number
 int is_number(char *word) {
